@@ -1,0 +1,1 @@
+# example of communication between processes
